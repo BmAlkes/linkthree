@@ -23,7 +23,7 @@ const router = createBrowserRouter([
     element: <Login />,
   },
   {
-    path: "/social",
+    path: "/admin/social",
     element: (
       <Private>
         <Network />
