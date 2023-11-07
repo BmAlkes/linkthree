@@ -2,8 +2,11 @@
 
 <p><a href="">Link project</a></p>
 
-<img src=""/>
-
+<img src="![image](https://github.com/BmAlkes/linkthree/assets/41919686/35de50f3-cfef-4304-b448-dac2db387c25)
+"/>
+<img src="https://github.com/BmAlkes/linkthree/blob/main/src/assets/photo3.png?raw=true"/>
+<img src="https://github.com/BmAlkes/linkthree/blob/main/src/assets/photo4.png?raw=true"/>
+<img src="https://github.com/BmAlkes/linkthree/blob/main/src/assets/photo5.png?raw=true"/>
 <h2>📝 Description</h2>
 <p></p>
 
@@ -17,7 +20,7 @@
 Technologies used
 Technology</h3>
 
-<p>React, Zod, Styled-components, axios, react-hook-form, react-router-dom </p>
+<p>React, react-router-dom, Tailwind, firebase </p>
 
 <hr/>
 <h2>🚀 Rodando o projeto</h2>
