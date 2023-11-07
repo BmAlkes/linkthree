@@ -1,4 +1,4 @@
-import React, { FormEvent, useEffect, useState } from "react";
+import { FormEvent, useEffect, useState } from "react";
 import Header from "../../components/header";
 import { Input } from "../../components/input";
 import { doc, getDoc, setDoc } from "firebase/firestore";
